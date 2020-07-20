@@ -1,1 +1,1 @@
-Sitemap: https://fastpages.fast.ai/sitemap.xml
+Sitemap: https://sivaramakrishnan1998.github.io/cvmldl/sitemap.xml
