@@ -39,9 +39,9 @@ baseurl: "/cvmldl" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: https://twitter.com/_sirakr_
-    github: https://github.com/Sivaramakrishnan1998/
-    linkedin: https://www.linkedin.com/in/sivaramakrishnang25/
+    twitter: _sirakr_
+    github: Sivaramakrishnan1998
+    linkedin: sivaramakrishnang25
 
 # Set this to true to get LaTeX math equation support
 use_math: true
